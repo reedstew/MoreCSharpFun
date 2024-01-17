@@ -9,6 +9,8 @@ namespace MoreCSharpFun
 {
     internal class PrintStuff
     {
+        public int blah = 0;
+        public int hello = 0;
         private string language;
         // Constructor
 
